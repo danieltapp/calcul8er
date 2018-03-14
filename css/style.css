@@ -1,0 +1,13 @@
+#header {
+  text-align: center;
+  max-width: 100%;
+   margin: 5% auto 0 0;
+   width: 50%;
+   padding: 10px;
+  font-family: 'Exo 2', sans-serif;
+}
+
+
+input {
+  max-width: 60%;
+}
